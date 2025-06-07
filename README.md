@@ -2,10 +2,10 @@
   <img src="https://github.com/Ho3einX/RubikaMod/blob/main/picture/1.jpg" alt="Rubika MOD Banner" width="100%" />
 </p>
 
-<h1 align="center">✨ Rubika MOD ✨</h1>
+<h1 align="center">✨ Rubix MOD ✨</h1>
 
 <p align="center">
-  نسخه مودشده روبیکا با قابلیت‌های ویژه<br>
+  نسخه مودشده روبیکس با قابلیت‌های ویژه<br>
   <i>دارای تیک آبی جعلی و قابلیت‌های منحصر‌به‌فرد</i>
 </p>
 
